@@ -1,1 +1,2 @@
 This is master.txt file created on master branch
+This is second line code in master.txt added on private branch
